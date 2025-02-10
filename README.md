@@ -35,7 +35,7 @@ Always learning, always iterating. Check out my repos and let’s build somethin
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-17A2B8?style=for-the-badge&logo=shield-alt&logoColor=white)  ![Security](https://img.shields.io/badge/Security-343A40?style=for-the-badge&logo=lock&logoColor=white)
 
 ![Testing](https://img.shields.io/badge/Testing-00BC8F?style=for-the-badge&logo=check-circle&logoColor=white)
-![QA](https://img.shields.io/badge/QA-6C757D?style=for-the-badge&logo=question-circle&logoColor=white)  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-FFC107?style=for-the-badge&logo=code&logoColor=white)
+![QA](https://img.shields.io/badge/QA-6C757D?style=for-the-badge&logo=question-circle&logoColor=white)  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-FFC107?style=for-the-badge&logo=jest&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-28A745?style=for-the-badge&logo=jest&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/E2E_Testing-28A745?style=for-the-badge&logo=testrail&logoColor=white)
 
