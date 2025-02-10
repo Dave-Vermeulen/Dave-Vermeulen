@@ -5,7 +5,7 @@
 IT generalist turned software developer, navigating the world of startups, software, and solving problems. I’ve worn many hats—IT ops, helpdesk, product support—but my passion lies in building 🏗️ and breaking things down to understand them 🕵️‍♂️.
 
 
-* 💡 Tech Stack & Interests:
+### 💡 Tech Stack & Interests:
 
 * 🙃 JavaScript (React, Node.js, Tailwind) – My frontend playground, always exploring new frameworks and libraries.
 
