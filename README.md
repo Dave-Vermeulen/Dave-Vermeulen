@@ -4,13 +4,13 @@
 
 IT generalist turned software developer, navigating the world of startups, software, and solving problems. I’ve worn many hats—IT ops, helpdesk, product support—but my passion lies in building 🏗️ and breaking things down to understand them 🕵️‍♂️.
 
-💡 Tech Stack & Interests:
-🙃 JavaScript (React, Node.js, Tailwind) – My frontend playground, always exploring new frameworks and libraries.
-☕ Java (OOP mindset, it just makes sense) – Backend development is where I want to be!  Actively building my skills and eager to contribute.
-🐘 SQL – Because data makes the world go round 🌐
-🐍 Python - Introduced to me by Karel from Stanford Uni. The dependable go to when working with data. 
-🤖 Automation Testing & TDD – Love making things bulletproof. A natural at it since I have always een good at breaking things that can break. Passionate about QA and ensuring quality.
-🧠 Exploring Functional Programming (Clojure) – A new adventure into the functional! a truly sexy language. 
+*💡 Tech Stack & Interests:
+*🙃 JavaScript (React, Node.js, Tailwind) – My frontend playground, always exploring new frameworks and libraries.
+*☕ Java (OOP mindset, it just makes sense) – Backend development is where I want to be!  Actively building my skills and eager to contribute.
+*🐘 SQL – Because data makes the world go round 🌐
+*🐍 Python - Introduced to me by Karel from Stanford Uni. The dependable go to when working with data. 
+*🤖 Automation Testing & TDD – Love making things bulletproof. A natural at it since I have always een good at breaking things that can break. Passionate about QA and ensuring quality.
+*🧠 Exploring Functional Programming (Clojure) – A new adventure into the functional! a truly sexy language. 
 
 Always learning, always iterating. Check out my repos and let’s build something cool! 🔥👨🏾‍💻👨🏾‍💻🔥
 
