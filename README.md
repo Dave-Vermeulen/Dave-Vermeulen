@@ -1,4 +1,4 @@
-# Hi👋 I'm Dawūd Vermeulen 🇿🇦
+# Hi 👋🏾 I'm Dawūd
 
 ## About Me ☕
 
